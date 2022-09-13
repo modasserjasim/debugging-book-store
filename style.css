@@ -76,7 +76,7 @@ nav ul li:hover {
 }
 
 .card {
-  height: 550px;
+  min-height: 550px;
   width: 300px;
   padding: 10px;
   border-radius: 12px;
